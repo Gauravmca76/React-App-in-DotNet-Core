@@ -1,0 +1,7 @@
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\CRManagerReactApp.exe
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\CRManagerReactApp.dll
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\CRManagerReactApp.deps.json
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\CRManagerReactApp.runtimeconfig.json
+D:\rnd\CRManagerReactApp\CRManagerReactApp\obj\Release\net8.0\PubTmp\Out\CRManagerReactApp.pdb

@@ -1,0 +1,393 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\CRManagerReactApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CRManagerReactApp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\react\\asset-manifest.json"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\assets\\images\\HGS-Logo-white-blue.svg",
+      "PackagePath": "staticwebassets\\react\\assets\\images\\HGS-Logo-white-blue.svg"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\react\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\assets\\images\\ind-flag.png",
+      "PackagePath": "staticwebassets\\react\\assets\\images\\ind-flag.png"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\assets\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\react\\assets\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\assets\\images\\logo-hgs.png",
+      "PackagePath": "staticwebassets\\react\\assets\\images\\logo-hgs.png"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\favicon.ico",
+      "PackagePath": "staticwebassets\\react\\favicon.ico"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\index.html",
+      "PackagePath": "staticwebassets\\react\\index.html"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\logo192.png",
+      "PackagePath": "staticwebassets\\react\\logo192.png"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\logo512.png",
+      "PackagePath": "staticwebassets\\react\\logo512.png"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\manifest.json",
+      "PackagePath": "staticwebassets\\react\\manifest.json"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\robots.txt",
+      "PackagePath": "staticwebassets\\react\\robots.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\css\\main.d757d88f.css",
+      "PackagePath": "staticwebassets\\react\\static\\css\\main.d757d88f.css"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\css\\main.d757d88f.css.map",
+      "PackagePath": "staticwebassets\\react\\static\\css\\main.d757d88f.css.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\453.32fc1037.chunk.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\453.32fc1037.chunk.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\453.32fc1037.chunk.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\453.32fc1037.chunk.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.7d9dbc9a.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.7d9dbc9a.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.7d9dbc9a.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.7d9dbc9a.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.7d9dbc9a.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.7d9dbc9a.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.8a253b6b.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.8a253b6b.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.8a253b6b.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.8a253b6b.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.8a253b6b.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.8a253b6b.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.a0028c5e.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.a0028c5e.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.a0028c5e.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.a0028c5e.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.a0028c5e.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.a0028c5e.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.ab0787c3.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.ab0787c3.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.ab0787c3.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.ab0787c3.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.ab0787c3.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.ab0787c3.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.de5e1e79.js",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.de5e1e79.js"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.de5e1e79.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.de5e1e79.js.LICENSE.txt"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\js\\main.de5e1e79.js.map",
+      "PackagePath": "staticwebassets\\react\\static\\js\\main.de5e1e79.js.map"
+    },
+    {
+      "Id": "D:\\rnd\\CRManagerReactApp\\CRManagerReactApp\\wwwroot\\react\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+      "PackagePath": "staticwebassets\\react\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.CRManagerReactApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.CRManagerReactApp.props",
+      "PackagePath": "build\\CRManagerReactApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CRManagerReactApp.props",
+      "PackagePath": "buildMultiTargeting\\CRManagerReactApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.CRManagerReactApp.props",
+      "PackagePath": "buildTransitive\\CRManagerReactApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CRManagerReactWeb/react/static/css/main.d757d88f.css",
+    "main.js": "/CRManagerReactWeb/react/static/js/main.a0028c5e.js",
+    "static/js/453.32fc1037.chunk.js": "/CRManagerReactWeb/react/static/js/453.32fc1037.chunk.js",
+    "static/media/logo.svg": "/CRManagerReactWeb/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CRManagerReactWeb/react/index.html",
+    "main.d757d88f.css.map": "/CRManagerReactWeb/react/static/css/main.d757d88f.css.map",
+    "main.a0028c5e.js.map": "/CRManagerReactWeb/react/static/js/main.a0028c5e.js.map",
+    "453.32fc1037.chunk.js.map": "/CRManagerReactWeb/react/static/js/453.32fc1037.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d757d88f.css",
+    "static/js/main.a0028c5e.js"
+  ]
+}
